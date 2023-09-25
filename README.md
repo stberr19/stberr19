@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @stberr19
 - 👀 I’m interested in data analytics!
-- 🌱 I’m currently learning Pandas and applying Python to data analytics!
-- 💞️ I’m looking to apply to jobs within the data analytics field!
-- 📫 The best way to reach me is through LinkedIn: https://www.linkedin.com/in/simonberry48/
+- 🌱 I’m currently learning various aspects of advanced data analytics, including Python!
+- 💞️ I’m looking to apply to jobs within data analytics or related fields!
+- 📫 The best way to reach me is through LinkedIn, https://www.linkedin.com/in/simonberry48/, or email: stberr19@gmail.com
 
 <!---
 stberr19/stberr19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
